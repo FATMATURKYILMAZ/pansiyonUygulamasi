@@ -1,0 +1,13 @@
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\bin\Debug\pansiyon uygulaması.exe.config
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\bin\Debug\pansiyon uygulaması.exe
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\bin\Debug\pansiyon uygulaması.pdb
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon uygulaması.csproj.AssemblyReference.cache
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon_uygulaması.Properties.Resources.resources
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon uygulaması.csproj.GenerateResource.cache
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon uygulaması.exe
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon uygulaması.pdb
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon_uygulaması.frmYeniMüsteri.resources
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon_uygulaması.frmAdminGiris.resources
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon_uygulaması.frmAnaForm.resources
+C:\Users\fatma\OneDrive\Masaüstü\pansiyon uygulaması\pansiyon uygulaması\obj\Debug\pansiyon_uygulaması.frmOdalar.resources
